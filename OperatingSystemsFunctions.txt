@@ -1,3 +1,8 @@
 Windows 10 has the speech feature to allow you to talk to use functions in Windows.
 You use the windows key + H to bring up the microphone.
 Then you simply say what you want windows to do or to dictate text you want it to write.
+
+By pressing the windows key + shift + S will open the snipping tool.
+You can then click and drag with your cursor to take a "snip" of your screen.
+It is then stored in the clipboard.
+This a good way to quickly take large amounts of information down or log errors.
