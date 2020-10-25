@@ -6,3 +6,8 @@ By pressing the windows key + shift + S will open the snipping tool.
 You can then click and drag with your cursor to take a "snip" of your screen.
 It is then stored in the clipboard.
 This a good way to quickly take large amounts of information down or log errors.
+
+If you want to access a timeline of what you have been doing on Windows hit the windows key + tab.
+This will allow you to scroll through and jump back to what you were doing.
+You can search with keywords of look by date or time.
+Settings and who can view can be changed from settings.
