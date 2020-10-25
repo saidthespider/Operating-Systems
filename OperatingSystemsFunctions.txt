@@ -1,0 +1,3 @@
+Windows 10 has the speech feature to allow you to talk to use functions in Windows.
+You use the windows key + H to bring up the microphone.
+Then you simply say what you want windows to do or to dictate text you want it to write.
